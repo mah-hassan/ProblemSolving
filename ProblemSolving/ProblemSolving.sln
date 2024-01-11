@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemSolving.ClimbingLeaderboard", "ProblemSolving.ClimbingLeaderboard\ProblemSolving.ClimbingLeaderboard.csproj", "{AD9A194F-0B04-48ED-A8A6-8C081CBEA67A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD9A194F-0B04-48ED-A8A6-8C081CBEA67A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9A194F-0B04-48ED-A8A6-8C081CBEA67A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9A194F-0B04-48ED-A8A6-8C081CBEA67A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9A194F-0B04-48ED-A8A6-8C081CBEA67A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2636B0CB-41CD-41F4-90AC-F07F7114F920}
+	EndGlobalSection
+EndGlobal

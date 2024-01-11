@@ -1,0 +1,15 @@
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\bin\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.exe
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\bin\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.deps.json
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\bin\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.runtimeconfig.json
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\bin\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.dll
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\bin\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.pdb
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\obj\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\obj\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.AssemblyInfoInputs.cache
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\obj\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.AssemblyInfo.cs
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\obj\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.csproj.CoreCompileInputs.cache
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\obj\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.sourcelink.json
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\obj\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.dll
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\obj\Debug\net6.0\refint\ProblemSolving.ClimbingLeaderboard.dll
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\obj\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.pdb
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\obj\Debug\net6.0\ProblemSolving.ClimbingLeaderboard.genruntimeconfig.cache
+E:\projects\ProblemSolving\ProblemSolving\ProblemSolving.ClimbingLeaderboard\obj\Debug\net6.0\ref\ProblemSolving.ClimbingLeaderboard.dll
