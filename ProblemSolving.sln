@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{140C12C8-8ED9-4853-B6C5-E7D3552D7577}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{140C12C8-8ED9-4853-B6C5-E7D3552D7577}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Encryption\Encryption.csproj", "{8EDC356C-3CF3-46D9-825F-5AFA6E470A68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encryption", "Encryption\Encryption.csproj", "{8EDC356C-3CF3-46D9-825F-5AFA6E470A68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingLeaderboard", "ClimbingLeaderboard\ClimbingLeaderboard.csproj", "{CAE24249-8853-4409-9048-6568823C3E60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingLeaderboard", "ClimbingLeaderboard\ClimbingLeaderboard.csproj", "{CAE24249-8853-4409-9048-6568823C3E60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircularArrayRotation", "CircularArrayRotation\CircularArrayRotation.csproj", "{8BD2887E-21F8-4BD2-88F1-A569F8EDE399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{CAE24249-8853-4409-9048-6568823C3E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAE24249-8853-4409-9048-6568823C3E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAE24249-8853-4409-9048-6568823C3E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD2887E-21F8-4BD2-88F1-A569F8EDE399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD2887E-21F8-4BD2-88F1-A569F8EDE399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD2887E-21F8-4BD2-88F1-A569F8EDE399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD2887E-21F8-4BD2-88F1-A569F8EDE399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
