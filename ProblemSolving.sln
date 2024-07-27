@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClimbingLeaderboard", "Clim
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircularArrayRotation", "CircularArrayRotation\CircularArrayRotation.csproj", "{8BD2887E-21F8-4BD2-88F1-A569F8EDE399}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraLongFactorials", "ExtraLongFactorials\ExtraLongFactorials.csproj", "{08F09AA8-7600-42B9-8C61-1C55AD90DEA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtraLongFactorials", "ExtraLongFactorials\ExtraLongFactorials.csproj", "{08F09AA8-7600-42B9-8C61-1C55AD90DEA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatlandSpaceStations", "FlatlandSpaceStations\FlatlandSpaceStations.csproj", "{BE1A136B-0044-41AC-B7B8-920C875737C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{08F09AA8-7600-42B9-8C61-1C55AD90DEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08F09AA8-7600-42B9-8C61-1C55AD90DEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08F09AA8-7600-42B9-8C61-1C55AD90DEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1A136B-0044-41AC-B7B8-920C875737C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1A136B-0044-41AC-B7B8-920C875737C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1A136B-0044-41AC-B7B8-920C875737C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1A136B-0044-41AC-B7B8-920C875737C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
