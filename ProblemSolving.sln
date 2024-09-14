@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1360.NumberofDaysBetweenTwo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125.ValidPalindrome", "125.ValidPalindrome\125.ValidPalindrome.csproj", "{1D8E396B-6F8E-408C-927C-4BDF2F7ADDB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121.BestTimetoBuyandSellStock", "121.BestTimetoBuyandSellStock\121.BestTimetoBuyandSellStock.csproj", "{0B23211F-E48B-4028-88A7-B7C31599B59C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{1D8E396B-6F8E-408C-927C-4BDF2F7ADDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D8E396B-6F8E-408C-927C-4BDF2F7ADDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D8E396B-6F8E-408C-927C-4BDF2F7ADDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B23211F-E48B-4028-88A7-B7C31599B59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B23211F-E48B-4028-88A7-B7C31599B59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B23211F-E48B-4028-88A7-B7C31599B59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B23211F-E48B-4028-88A7-B7C31599B59C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
