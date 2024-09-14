@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircularArrayRotation", "Ci
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtraLongFactorials", "ExtraLongFactorials\ExtraLongFactorials.csproj", "{08F09AA8-7600-42B9-8C61-1C55AD90DEA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlatlandSpaceStations", "FlatlandSpaceStations\FlatlandSpaceStations.csproj", "{BE1A136B-0044-41AC-B7B8-920C875737C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlatlandSpaceStations", "FlatlandSpaceStations\FlatlandSpaceStations.csproj", "{BE1A136B-0044-41AC-B7B8-920C875737C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1360.NumberofDaysBetweenTwoDates", "1360.NumberofDaysBetweenTwoDates\1360.NumberofDaysBetweenTwoDates.csproj", "{11C2F972-4A0D-49D7-AB5A-672075C778EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{BE1A136B-0044-41AC-B7B8-920C875737C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE1A136B-0044-41AC-B7B8-920C875737C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE1A136B-0044-41AC-B7B8-920C875737C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C2F972-4A0D-49D7-AB5A-672075C778EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C2F972-4A0D-49D7-AB5A-672075C778EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C2F972-4A0D-49D7-AB5A-672075C778EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C2F972-4A0D-49D7-AB5A-672075C778EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
