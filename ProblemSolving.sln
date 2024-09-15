@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1991.FindtheMiddleIndexinAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "143.ReorderList", "143.ReorderList\143.ReorderList.csproj", "{F00943D4-6636-413D-BA95-F16F53AC927C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.MergeTwoSortedLists", "21.MergeTwoSortedLists\21.MergeTwoSortedLists.csproj", "{1A8EAB66-CAAA-4FCE-8F6D-E1199034F2DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{F00943D4-6636-413D-BA95-F16F53AC927C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F00943D4-6636-413D-BA95-F16F53AC927C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F00943D4-6636-413D-BA95-F16F53AC927C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8EAB66-CAAA-4FCE-8F6D-E1199034F2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8EAB66-CAAA-4FCE-8F6D-E1199034F2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8EAB66-CAAA-4FCE-8F6D-E1199034F2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8EAB66-CAAA-4FCE-8F6D-E1199034F2DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
