@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125.ValidPalindrome", "125.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "121.BestTimetoBuyandSellStock", "121.BestTimetoBuyandSellStock\121.BestTimetoBuyandSellStock.csproj", "{0B23211F-E48B-4028-88A7-B7C31599B59C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1991.FindtheMiddleIndexinArray", "1991.FindtheMiddleIndexinArray\1991.FindtheMiddleIndexinArray.csproj", "{7BD157A6-84BA-471C-B574-8F5F431D5FCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{0B23211F-E48B-4028-88A7-B7C31599B59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B23211F-E48B-4028-88A7-B7C31599B59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B23211F-E48B-4028-88A7-B7C31599B59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD157A6-84BA-471C-B574-8F5F431D5FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD157A6-84BA-471C-B574-8F5F431D5FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD157A6-84BA-471C-B574-8F5F431D5FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD157A6-84BA-471C-B574-8F5F431D5FCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
