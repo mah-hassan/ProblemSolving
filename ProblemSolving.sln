@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "143.ReorderList", "143.Reor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.MergeTwoSortedLists", "21.MergeTwoSortedLists\21.MergeTwoSortedLists.csproj", "{1A8EAB66-CAAA-4FCE-8F6D-E1199034F2DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "141.LinkedListCycle", "141.LinkedListCycle\141.LinkedListCycle.csproj", "{0F956134-745B-49EF-967A-AACE3BA12001}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "141.LinkedListCycle", "141.LinkedListCycle\141.LinkedListCycle.csproj", "{0F956134-745B-49EF-967A-AACE3BA12001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "496.NextGreaterElementI", "496.NextGreaterElementI\496.NextGreaterElementI.csproj", "{DEF643C0-4A88-4F11-8086-0F1E9D63807C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{0F956134-745B-49EF-967A-AACE3BA12001}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F956134-745B-49EF-967A-AACE3BA12001}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F956134-745B-49EF-967A-AACE3BA12001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF643C0-4A88-4F11-8086-0F1E9D63807C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF643C0-4A88-4F11-8086-0F1E9D63807C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF643C0-4A88-4F11-8086-0F1E9D63807C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF643C0-4A88-4F11-8086-0F1E9D63807C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
