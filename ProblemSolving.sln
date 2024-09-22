@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "347.TopKFrequentElements", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.TwoSum", "1.TwoSum\1.TwoSum.csproj", "{4ADAFAEB-A76A-48FF-BCA5-D0C4110EEE31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "242.ValidAnagram", "242.ValidAnagram\242.ValidAnagram.csproj", "{BC4AC7FA-5070-4BAB-80BD-718C64A6EA00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{4ADAFAEB-A76A-48FF-BCA5-D0C4110EEE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ADAFAEB-A76A-48FF-BCA5-D0C4110EEE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ADAFAEB-A76A-48FF-BCA5-D0C4110EEE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4AC7FA-5070-4BAB-80BD-718C64A6EA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4AC7FA-5070-4BAB-80BD-718C64A6EA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4AC7FA-5070-4BAB-80BD-718C64A6EA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4AC7FA-5070-4BAB-80BD-718C64A6EA00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
