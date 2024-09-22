@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "215.KthLargestElementinanAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "973.KClosestPointsToOrigin", "973.KClosestPointsToOrigin\973.KClosestPointsToOrigin.csproj", "{23A25A0A-0D7F-49B3-B8D4-BD6693A66387}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "347.TopKFrequentElements", "347.TopKFrequentElements\347.TopKFrequentElements.csproj", "{22CB5063-D83E-4B53-A62F-B7BFE13A7442}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{23A25A0A-0D7F-49B3-B8D4-BD6693A66387}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A25A0A-0D7F-49B3-B8D4-BD6693A66387}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23A25A0A-0D7F-49B3-B8D4-BD6693A66387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CB5063-D83E-4B53-A62F-B7BFE13A7442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CB5063-D83E-4B53-A62F-B7BFE13A7442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CB5063-D83E-4B53-A62F-B7BFE13A7442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CB5063-D83E-4B53-A62F-B7BFE13A7442}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
