@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49.GroupAnagrams", "49.Grou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1207. UniqueNumberOfOccurrences", "1207. UniqueNumberOfOccurrences\1207. UniqueNumberOfOccurrences.csproj", "{20801C65-F0A2-43A9-BAFF-015F192C78BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217.ContainsDuplicate", "217.ContainsDuplicate\217.ContainsDuplicate.csproj", "{0BA72CE5-D9CD-4178-9253-0DF55F44BBC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{20801C65-F0A2-43A9-BAFF-015F192C78BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20801C65-F0A2-43A9-BAFF-015F192C78BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20801C65-F0A2-43A9-BAFF-015F192C78BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA72CE5-D9CD-4178-9253-0DF55F44BBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA72CE5-D9CD-4178-9253-0DF55F44BBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA72CE5-D9CD-4178-9253-0DF55F44BBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA72CE5-D9CD-4178-9253-0DF55F44BBC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
