@@ -17,4 +17,17 @@ public class Solution {
 
         return false;
     }
+    public bool ContainsNearbyDuplicate(int[] nums, int k) 
+    {
+        Dictionary<int, int> hashMap = new();
+        for(int i = 0; i < nums.Length; i++)
+        {
+            if(hashMap.ContainsKey(nums[i]) && i - hashMap[nums[i]] <= k)
+            {
+                return true;
+            }
+            hashMap[nums[i]] = i;
+        }
+        return false;
+    }
 }
