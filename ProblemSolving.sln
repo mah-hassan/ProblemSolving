@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "973.KClosestPointsToOrigin"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "347.TopKFrequentElements", "347.TopKFrequentElements\347.TopKFrequentElements.csproj", "{22CB5063-D83E-4B53-A62F-B7BFE13A7442}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.TwoSum", "1.TwoSum\1.TwoSum.csproj", "{4ADAFAEB-A76A-48FF-BCA5-D0C4110EEE31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{22CB5063-D83E-4B53-A62F-B7BFE13A7442}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22CB5063-D83E-4B53-A62F-B7BFE13A7442}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22CB5063-D83E-4B53-A62F-B7BFE13A7442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADAFAEB-A76A-48FF-BCA5-D0C4110EEE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADAFAEB-A76A-48FF-BCA5-D0C4110EEE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADAFAEB-A76A-48FF-BCA5-D0C4110EEE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADAFAEB-A76A-48FF-BCA5-D0C4110EEE31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
