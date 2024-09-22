@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "141.LinkedListCycle", "141.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "496.NextGreaterElementI", "496.NextGreaterElementI\496.NextGreaterElementI.csproj", "{DEF643C0-4A88-4F11-8086-0F1E9D63807C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "215.KthLargestElementinanArray", "215.KthLargestElementinanArray\215.KthLargestElementinanArray.csproj", "{C7D49E0A-F23D-4140-9AAA-F9015507C918}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{DEF643C0-4A88-4F11-8086-0F1E9D63807C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEF643C0-4A88-4F11-8086-0F1E9D63807C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEF643C0-4A88-4F11-8086-0F1E9D63807C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D49E0A-F23D-4140-9AAA-F9015507C918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D49E0A-F23D-4140-9AAA-F9015507C918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D49E0A-F23D-4140-9AAA-F9015507C918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D49E0A-F23D-4140-9AAA-F9015507C918}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
