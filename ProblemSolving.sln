@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268.MissingNumber", "268.Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "287.FindtheDuplicateNumber", "287.FindtheDuplicateNumber\287.FindtheDuplicateNumber.csproj", "{0392DC62-8BE8-4B2B-911A-60C8E120DD00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "953.VerifyingAnAlienDictionary", "953.VerifyingAnAlienDictionary\953.VerifyingAnAlienDictionary.csproj", "{B8A1C4BA-A1C1-42C7-BEF8-50A3273F4049}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{0392DC62-8BE8-4B2B-911A-60C8E120DD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0392DC62-8BE8-4B2B-911A-60C8E120DD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0392DC62-8BE8-4B2B-911A-60C8E120DD00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A1C4BA-A1C1-42C7-BEF8-50A3273F4049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A1C4BA-A1C1-42C7-BEF8-50A3273F4049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A1C4BA-A1C1-42C7-BEF8-50A3273F4049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A1C4BA-A1C1-42C7-BEF8-50A3273F4049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
