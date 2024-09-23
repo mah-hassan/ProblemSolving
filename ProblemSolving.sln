@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1207. UniqueNumberOfOccurre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217.ContainsDuplicate", "217.ContainsDuplicate\217.ContainsDuplicate.csproj", "{0BA72CE5-D9CD-4178-9253-0DF55F44BBC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268.MissingNumber", "268.MissingNumber\268.MissingNumber.csproj", "{13B80AA6-0FAE-489F-9DF7-F74CD29317EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{0BA72CE5-D9CD-4178-9253-0DF55F44BBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BA72CE5-D9CD-4178-9253-0DF55F44BBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BA72CE5-D9CD-4178-9253-0DF55F44BBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B80AA6-0FAE-489F-9DF7-F74CD29317EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B80AA6-0FAE-489F-9DF7-F74CD29317EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B80AA6-0FAE-489F-9DF7-F74CD29317EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B80AA6-0FAE-489F-9DF7-F74CD29317EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
