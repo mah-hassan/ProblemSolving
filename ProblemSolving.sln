@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "103.BinaryTreeZigzagLevelOr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "543.DiameterOfBinaryTree", "543.DiameterOfBinaryTree\543.DiameterOfBinaryTree.csproj", "{00D92F33-7632-43AD-ADE3-2019B7B962A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "112.PathSum", "112.PathSum\112.PathSum.csproj", "{9CBE997B-42F3-4072-82EF-17886E564022}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{00D92F33-7632-43AD-ADE3-2019B7B962A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00D92F33-7632-43AD-ADE3-2019B7B962A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00D92F33-7632-43AD-ADE3-2019B7B962A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CBE997B-42F3-4072-82EF-17886E564022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CBE997B-42F3-4072-82EF-17886E564022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CBE997B-42F3-4072-82EF-17886E564022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBE997B-42F3-4072-82EF-17886E564022}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
