@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104.MaximumDepthOfBinaryTre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "958.CheckCompletenessOfABinaryTree", "958.CheckCompletenessOfABinaryTree\958.CheckCompletenessOfABinaryTree.csproj", "{6041BC6D-9E9A-4401-AE66-2E4A0A20A090}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "103.BinaryTreeZigzagLevelOrderTraversal", "103.BinaryTreeZigzagLevelOrderTraversal\103.BinaryTreeZigzagLevelOrderTraversal.csproj", "{5202CC75-2B47-4CA8-9A00-9DF1EE61B12B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{6041BC6D-9E9A-4401-AE66-2E4A0A20A090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6041BC6D-9E9A-4401-AE66-2E4A0A20A090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6041BC6D-9E9A-4401-AE66-2E4A0A20A090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5202CC75-2B47-4CA8-9A00-9DF1EE61B12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5202CC75-2B47-4CA8-9A00-9DF1EE61B12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5202CC75-2B47-4CA8-9A00-9DF1EE61B12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5202CC75-2B47-4CA8-9A00-9DF1EE61B12B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
