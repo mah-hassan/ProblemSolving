@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "112.PathSum", "112.PathSum\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "101.SymmetricTree", "101.SymmetricTree\101.SymmetricTree.csproj", "{9538CC32-A189-400F-8BDE-16374D9445C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "145.BinaryTreePostorderTraversal", "145.BinaryTreePostorderTraversal\145.BinaryTreePostorderTraversal.csproj", "{B2D9C541-7635-42F4-9F73-527D3681099E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{9538CC32-A189-400F-8BDE-16374D9445C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9538CC32-A189-400F-8BDE-16374D9445C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9538CC32-A189-400F-8BDE-16374D9445C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2D9C541-7635-42F4-9F73-527D3681099E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D9C541-7635-42F4-9F73-527D3681099E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D9C541-7635-42F4-9F73-527D3681099E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D9C541-7635-42F4-9F73-527D3681099E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
