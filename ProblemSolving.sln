@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "230.KthSmallestElementInaBS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "236.LowestCommonAncestorOfaBinaryTree", "236.LowestCommonAncestorOfaBinaryTree\236.LowestCommonAncestorOfaBinaryTree.csproj", "{6B98F36E-6A06-486D-860D-F99AEF159379}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "208.ImplementTrie(Prefix Tree)", "208.ImplementTrie(Prefix Tree)\208.ImplementTrie(Prefix Tree).csproj", "{56A131EA-5AEB-4EEA-B05F-A8ADB69FE6C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{6B98F36E-6A06-486D-860D-F99AEF159379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B98F36E-6A06-486D-860D-F99AEF159379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B98F36E-6A06-486D-860D-F99AEF159379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A131EA-5AEB-4EEA-B05F-A8ADB69FE6C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A131EA-5AEB-4EEA-B05F-A8ADB69FE6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A131EA-5AEB-4EEA-B05F-A8ADB69FE6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A131EA-5AEB-4EEA-B05F-A8ADB69FE6C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
