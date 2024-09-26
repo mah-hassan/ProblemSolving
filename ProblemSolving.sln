@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "101.SymmetricTree", "101.Sy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "145.BinaryTreePostorderTraversal", "145.BinaryTreePostorderTraversal\145.BinaryTreePostorderTraversal.csproj", "{B2D9C541-7635-42F4-9F73-527D3681099E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "94.BinaryTreeInorderTraversal", "94.BinaryTreeInorderTraversal\94.BinaryTreeInorderTraversal.csproj", "{D59EA071-B659-45BB-8E58-09049C76CE27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{B2D9C541-7635-42F4-9F73-527D3681099E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2D9C541-7635-42F4-9F73-527D3681099E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2D9C541-7635-42F4-9F73-527D3681099E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59EA071-B659-45BB-8E58-09049C76CE27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59EA071-B659-45BB-8E58-09049C76CE27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59EA071-B659-45BB-8E58-09049C76CE27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59EA071-B659-45BB-8E58-09049C76CE27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
