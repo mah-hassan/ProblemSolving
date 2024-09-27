@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "236.LowestCommonAncestorOfa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "208.ImplementTrie(Prefix Tree)", "208.ImplementTrie(Prefix Tree)\208.ImplementTrie(Prefix Tree).csproj", "{56A131EA-5AEB-4EEA-B05F-A8ADB69FE6C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "692.TopKFrequentWords", "692.TopKFrequentWords\692.TopKFrequentWords.csproj", "{4B3F38B7-7360-4F81-8692-C70A12CB929E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{56A131EA-5AEB-4EEA-B05F-A8ADB69FE6C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A131EA-5AEB-4EEA-B05F-A8ADB69FE6C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A131EA-5AEB-4EEA-B05F-A8ADB69FE6C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3F38B7-7360-4F81-8692-C70A12CB929E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3F38B7-7360-4F81-8692-C70A12CB929E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3F38B7-7360-4F81-8692-C70A12CB929E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3F38B7-7360-4F81-8692-C70A12CB929E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
