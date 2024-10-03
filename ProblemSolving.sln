@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "692.TopKFrequentWords", "69
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "987.VerticalOrderTraversalofaBinaryTree", "987.VerticalOrderTraversalofaBinaryTree\987.VerticalOrderTraversalofaBinaryTree.csproj", "{A7AB786F-4D62-434C-BDFF-33546764A4B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "152.MaximumProductSubarray", "152.MaximumProductSubarray\152.MaximumProductSubarray.csproj", "{BC717B82-8F84-4695-8331-DCD3C7285185}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{A7AB786F-4D62-434C-BDFF-33546764A4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7AB786F-4D62-434C-BDFF-33546764A4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7AB786F-4D62-434C-BDFF-33546764A4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC717B82-8F84-4695-8331-DCD3C7285185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC717B82-8F84-4695-8331-DCD3C7285185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC717B82-8F84-4695-8331-DCD3C7285185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC717B82-8F84-4695-8331-DCD3C7285185}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
