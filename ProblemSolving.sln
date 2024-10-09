@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.AddTwoNumbers", "2.AddTwo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.LongestSubstringWithoutRepeatingCharacters", "3.LongestSubstringWithoutRepeatingCharacters\3.LongestSubstringWithoutRepeatingCharacters.csproj", "{A204C944-F862-44E1-A9BE-D170700674E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.MedianofTwoSortedArrays", "4.MedianofTwoSortedArrays\4.MedianofTwoSortedArrays.csproj", "{0B209EE6-ACEC-4550-8067-67AE0F0B8993}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{A204C944-F862-44E1-A9BE-D170700674E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A204C944-F862-44E1-A9BE-D170700674E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A204C944-F862-44E1-A9BE-D170700674E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B209EE6-ACEC-4550-8067-67AE0F0B8993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B209EE6-ACEC-4550-8067-67AE0F0B8993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B209EE6-ACEC-4550-8067-67AE0F0B8993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B209EE6-ACEC-4550-8067-67AE0F0B8993}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
